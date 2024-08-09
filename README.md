@@ -17,5 +17,10 @@ Welcome to the GitHub repository for Samsung Odin v4 1.2.1-dc05e3ea for Linux. T
 
    ```bash
    unzip odin.zip
-   
+3. **Make Odin Executable:**
+Change the permissions of the odin4 binary to make it executable:
+
+```bash
+chmod +x odin4
+
 
