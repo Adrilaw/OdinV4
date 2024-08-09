@@ -38,7 +38,7 @@ For a list of available commands and options, use the help flag:
 ```bash
 odin4 -h
 ```
-```bash
+```
 Usage : odin4 [args...]
 Odin4 downloader. odin4 version 1.2.1-dc05e3ea
  -v        SHOW VERSION
