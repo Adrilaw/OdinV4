@@ -12,11 +12,10 @@ Welcome to the GitHub repository for Samsung Odin v4 1.2.1-dc05e3ea for Linux. T
    Go to the [Releases page](https://github.com/Adrilaw/OdinV4/releases) and download the `odin.zip` file.
 
 2. **Extract the Archive:**
-
    Open a terminal and navigate to the directory where `odin.zip` was downloaded. Extract the files using:
 
-   ```bash
-   unzip odin.zip
+```bash
+unzip odin.zip
 3. **Make Odin Executable:**
 Change the permissions of the odin4 binary to make it executable:
 
