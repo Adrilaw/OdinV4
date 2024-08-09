@@ -38,7 +38,8 @@ For a list of available commands and options, use the help flag:
 ```bash
 odin4 -h
 ```
-` Usage : odin4 [args...]
+```bash
+Usage : odin4 [args...]
 Odin4 downloader. odin4 version 1.2.1-dc05e3ea
  -v        SHOW VERSION
  -w        Show License
@@ -72,6 +73,7 @@ PATH_OF_DEVICE_A
 PATH_OF_DEVICE_B
 $odin4 -b BL_XXXX.tar.md5 -a AP_XXXX.tar.md5 -c CP_XXXX.tar.md5 -s CSC_XXXX.tar.md5 -d PATH_OF_DEVICE_A
 
-Odin Community : http://mobilerndhub.sec.samsung.net/hub/site/odin/`
+Odin Community : http://mobilerndhub.sec.samsung.net/hub/site/odin/
+```
 
 
