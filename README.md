@@ -97,7 +97,7 @@ Odin Community : http://mobilerndhub.sec.samsung.net/hub/site/odin/
 ## Using odin4 example
 ```bash
 Example :
-$ sudo odin4  -a AP_XXXX.tar
+$ sudo odin4 -a AP_XXXX.tar
 ```
 ![Screenshot_2022-10-26_04-59-27](https://github.com/user-attachments/assets/9cd99c6c-360d-401c-9ef7-eb27ee6ec924)
 
