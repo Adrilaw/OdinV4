@@ -76,6 +76,11 @@ $odin4 -b BL_XXXX.tar.md5 -a AP_XXXX.tar.md5 -c CP_XXXX.tar.md5 -s CSC_XXXX.tar.
 
 Odin Community : http://mobilerndhub.sec.samsung.net/hub/site/odin/
 ```
+## Using odin4 example
+```bash
+Example :
+$ odin4 -b BL_XXXX.tar.md5 -a AP_XXXX.tar.md5 -c CP_XXXX.tar.md5 -s CSC_XXXX.tar.md5
+```
 ## Features
 • Firmware Flashing: Update your Samsung device with the latest official firmware.
 
