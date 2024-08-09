@@ -87,6 +87,9 @@ Odin Community : http://mobilerndhub.sec.samsung.net/hub/site/odin/
 
 • Permission Issues: If you encounter permission errors, ensure you are running the commands with appropriate privileges.
 
+## Acknowledgements
+Thanks to the community for their support and feedback. For more discussions and support, visit the [XDA Forums thread](https://xdaforums.com/t/official-samsung-odin-v4-1-2-1-dc05e3ea-for-linux.4453423/).
+
 # License
 This project is licensed under the  [MIT License](LICENSE). See the LICENSE file for details.
 
