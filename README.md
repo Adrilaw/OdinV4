@@ -22,6 +22,13 @@ Change the permissions of the odin4 binary to make it executable:
 
 ```bash
 chmod +x odin4
+```
+4. **Move odin4 to /bin Directory:**
+To make odin4 available system-wide, move it to /bin directory
+
+```bash
+sudo cp odin4 /bin
+```
 
 
 
