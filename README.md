@@ -87,3 +87,7 @@ Odin Community : http://mobilerndhub.sec.samsung.net/hub/site/odin/
 
 • Permission Issues: If you encounter permission errors, ensure you are running the commands with appropriate privileges.
 
+# License
+This project is licensed under the  [MIT License](LICENSE). See the LICENSE file for details.
+
+
