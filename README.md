@@ -23,13 +23,5 @@ Change the permissions of the odin4 binary to make it executable:
 ```bash
 chmod +x odin4
 
-4. **Move Odin to /bin Directory:**
-To make odin4 available system-wide, move it to the /bin directory:
-
-```bash
-sudo cp odin4 /bin
-
-## Usage
-To use Samsung Odin, simply run the following command:
 
 
