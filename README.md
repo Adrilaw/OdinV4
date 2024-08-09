@@ -15,7 +15,7 @@ Welcome to the GitHub repository for Samsung Odin v4 1.2.1-dc05e3ea for Linux. T
   - `libusb`: Required for USB communication.
   - `adb`: Android Debug Bridge tool, which might be needed for some operations.
   - `unzip`: To extract the `odin.zip` file.
-  - 
+    
   Install these dependencies using your package manager. For example, on Ubuntu, you can use:
 
 ```bash
