@@ -75,5 +75,15 @@ $odin4 -b BL_XXXX.tar.md5 -a AP_XXXX.tar.md5 -c CP_XXXX.tar.md5 -s CSC_XXXX.tar.
 
 Odin Community : http://mobilerndhub.sec.samsung.net/hub/site/odin/
 ``
+## Features
+• Firmware Flashing: Update your Samsung device with the latest official firmware.
 
+• Custom Binary Installation: Flash custom recoveries, kernels, and other binaries.
+
+• Ease of Use: Designed to be user-friendly for both beginners and advanced users.
+
+## Troubleshooting
+• Device Not Detected: Ensure your device is in Download Mode and properly connected. Check if USB Debugging is enabled and that the necessary drivers are installed.
+
+• Permission Issues: If you encounter permission errors, ensure you are running the commands with appropriate privileges.
 
