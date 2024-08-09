@@ -1,8 +1,26 @@
 # OdinV4
 # Samsung Odin v4 1.2.1-dc05e3ea - For Linux
 
-Welcome to the GitHub repository for Samsung Odin v4 1.2.1-dc05e3ea for Linux. This tool allows you to flash firmware and custom binaries to your Samsung devices directly from a Linux environment.
+Welcome to the GitHub repository for Samsung Odin v4 1.2.1-dc05e3ea for Linux. This tool allows you to flash firmware and custom binaries to your Samsung devices directly from a Linux environment using only your terminal.
 
+## Hardware
+
+- **Compatible Samsung Device**: The tool is designed to work with Samsung devices that support firmware flashing through Odin.
+- **USB Cable**: A reliable USB cable to connect your Samsung device to your Linux machine.
+
+## Software
+
+- **Linux Distribution**: Tested on popular distributions such as Ubuntu 22.04+, Fedora 36+, and others. Other distributions should work but have not been explicitly tested.
+- **Dependencies**: Ensure the following packages are installed:
+  - `libusb`: Required for USB communication.
+  - `adb`: Android Debug Bridge tool, which might be needed for some operations.
+  - `unzip`: To extract the `odin.zip` file.
+  - 
+  Install these dependencies using your package manager. For example, on Ubuntu, you can use:
+
+```bash
+sudo apt-get install libusb-dev adb unzip 
+```
 ## Installation
 
 ### Download and Setup
