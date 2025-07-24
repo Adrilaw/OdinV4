@@ -120,3 +120,9 @@ Thanks to the community for their support and feedback. For more discussions and
 This project is licensed under the  [MIT License](LICENSE). See the LICENSE file for details.
 
 
+⚠️ I am **not the original creator** of OdinV4.  
+I simply uploaded the tool here to make it easier for others to access, learn from, and use.
+
+All credit goes to the original author.
+
+If you're the original creator and want this repo taken down or credited differently, feel free to contact me.
